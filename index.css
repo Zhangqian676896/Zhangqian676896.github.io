@@ -17,6 +17,7 @@ body{background-color: #FFFFFF;
 .top h3{font-size:30px;font-style: italic;
 	font-family: Georgia;color: #F3F6F4;padding-top:50px;
 	text-align: center;
+	width:100%;
 	}
 .top h5{font-size:30px;position:absolute;left:20px;top:-30px;color: #F3F6F4}
 h6 {
