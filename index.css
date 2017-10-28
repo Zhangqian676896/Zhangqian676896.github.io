@@ -14,10 +14,9 @@ body{background-color: #FFFFFF;
 	padding-top: 120px;
 	color: #F3F6F4;
 }
-.top h3{font-size:30px;position:absolute;font-style: italic;
-	font-family: Georgia;color: #F3F6F4;left:760px;top:310px;
-	padding: 0;
-	margin: 0;
+.top h3{font-size:30px;font-style: italic;
+	font-family: Georgia;color: #F3F6F4;padding-top:310px;
+	text-align: center;
 	}
 .top h5{font-size:30px;position:absolute;left:20px;top:-30px;color: #F3F6F4}
 h6 {
